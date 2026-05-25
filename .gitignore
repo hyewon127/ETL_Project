@@ -2,4 +2,9 @@
 *.pptx
 *.docx
 *.xlsx
+
+#원본 데이터(용량 문제로 업로드 제외)
 *.csv
+
+#DB 접속 정보
+db.properties
